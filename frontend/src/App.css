@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+a {
+  color: white;
+  text-decoration: none
+}
+
+a.active {
+  color: red;
+}
+
+.navbar-nav a {
+  padding: 0px 10px;
+}
